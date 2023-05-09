@@ -1,0 +1,30 @@
+{
+  "name": "todorecadmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CataQuarleri/todorecadmin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CataQuarleri/todorecadmin/issues"
+  },
+  "homepage": "https://github.com/CataQuarleri/todorecadmin#readme",
+  "dependencies": {
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.12.3",
+    "next": "^13.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "swr": "^2.1.5"
+  }
+}
